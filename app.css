@@ -7,7 +7,8 @@
 body {
     background: #f7f7f7;
     color: #05835f;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: '', sans-serif; */
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
 }
 
 h2{
