@@ -127,8 +127,10 @@ input[type="radio"]:checked + *::before {
     margin-top: 1em;
 } */
 
-.input-group .input-box select option {
-    padding: 1em;
+.input-group .input-box select {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 4px;
 }
 
 button {
