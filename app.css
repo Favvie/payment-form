@@ -268,7 +268,7 @@ button {
     }
 
     .wrapper::before {
-        content: url(https://user-images.githubusercontent.com/66237754/114821827-0f87ca00-9db9-11eb-8759-24fd144754c1.jpg);
+        content: url('https://user-images.githubusercontent.com/66237754/114821827-0f87ca00-9db9-11eb-8759-24fd144754c1.jpg');
         position: absolute;
         left: 3%;
         top: 12%;
